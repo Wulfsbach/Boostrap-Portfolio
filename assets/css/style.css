@@ -16,3 +16,11 @@
      margin:0;
      padding:0;
  }
+ body { 
+    padding-top: 75px; 
+}
+
+.navbar-text{
+    text-align: center;
+    float:none;
+}
